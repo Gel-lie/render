@@ -1,2 +1,7 @@
-flask
+Flask
 gunicorn
+nltk
+numpy
+pandas
+scikit-learn
+google-generativeai
